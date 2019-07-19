@@ -25,7 +25,7 @@ import (
 )
 
 const (
-	defaultBaseURL = "https://api.hipchat.com/v2/"
+	defaultBaseURL = "https://hipchat.twinformatics.at"
 )
 
 // HTTPClient is an interface that allows overriding the http behavior
